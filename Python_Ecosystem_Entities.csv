@@ -1,0 +1,35 @@
+ID,Name,Type
+1,Python,Programming Language
+2,Django,Backend Framework
+3,Flask,Backend Framework
+4,FastAPI,Backend Framework
+5,Pyramid,Backend Framework
+6,Tkinter,GUI Framework
+7,PyQt,GUI Framework
+8,Kivy,GUI Framework
+9,PySide,GUI Framework
+10,PyGame,Game Development Library
+11,Pandas,Data Science Library
+12,NumPy,Data Science Library
+13,Matplotlib,Data Visualization Library
+14,Seaborn,Data Visualization Library
+15,Scikit-learn,Machine Learning Library
+16,TensorFlow,Deep Learning Library
+17,PyTorch,Deep Learning Library
+18,Keras,Deep Learning Library
+19,Requests,HTTP Library
+20,BeautifulSoup,Web Scraping Library
+21,Scrapy,Web Scraping Framework
+22,Selenium,Web Automation Library
+23,SQLAlchemy,Database ORM
+24,Psycopg2,PostgreSQL Adapter
+25,PyMongo,MongoDB Adapter
+26,Celery,Task Queue
+27,Pytest,Testing Framework
+28,Unittest,Testing Framework
+29,Hypothesis,Testing Library
+30,Poetry,Package Management
+31,Pipenv,Package Management
+32,Virtualenv,Environment Management
+33,Jupyter Notebook,Interactive Computing
+34,IPython,Interactive Shell
